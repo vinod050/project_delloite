@@ -1,0 +1,26 @@
+[
+  {
+    "deviceId": "DAIKIBO_001",
+    "timestamp": 1697374200000,
+    "temperature": 25.5,
+    "pressure": 1013.2,
+    "humidity": 60.0,
+    "status": "active"
+  },
+  {
+    "deviceId": "DAIKIBO_002",
+    "timestamp": 1697374260000,
+    "temperature": 26.2,
+    "pressure": 1012.8,
+    "humidity": 58.5,
+    "status": "active"
+  },
+  {
+    "deviceId": "DAIKIBO_004",
+    "timestamp": 1697374260000,
+    "temperature": 27.1,
+    "pressure": 1011.5,
+    "humidity": 55.2,
+    "status": "active"
+  }
+]

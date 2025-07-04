@@ -1,0 +1,50 @@
+[
+  {
+    "deviceId": "DAIKIBO_001",
+    "timestamp": 1697374200000,
+    "temperature": 25.5,
+    "pressure": 1013.2,
+    "humidity": 60.0,
+    "status": "active"
+  },
+  {
+    "deviceId": "DAIKIBO_002",
+    "timestamp": 1697374260000,
+    "temperature": 26.2,
+    "pressure": 1012.8,
+    "humidity": 58.5,
+    "status": "active"
+  },
+  {
+    "deviceId": "DAIKIBO_003",
+    "timestamp": 1697374320000,
+    "temperature": 24.8,
+    "pressure": 1014.1,
+    "humidity": 62.3,
+    "status": "maintenance"
+  },
+  {
+    "deviceId": "DAIKIBO_004",
+    "timestamp": 1697380260000,
+    "temperature": 27.1,
+    "pressure": 1011.5,
+    "humidity": 55.2,
+    "status": "active"
+  },
+  {
+    "deviceId": "DAIKIBO_005",
+    "timestamp": 1697380320000,
+    "temperature": 25.9,
+    "pressure": 1013.7,
+    "humidity": 59.8,
+    "status": "active"
+  },
+  {
+    "deviceId": "DAIKIBO_006",
+    "timestamp": 1697380380000,
+    "temperature": 26.5,
+    "pressure": 1012.3,
+    "humidity": 57.1,
+    "status": "warning"
+  }
+]
